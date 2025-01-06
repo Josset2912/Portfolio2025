@@ -3,7 +3,7 @@ import defaultTheme from "tailwindcss/defaultTheme";
 import { themes as daisyThemes } from "daisyui/src/theming/themes";
 import typography from "@tailwindcss/typography";
 import daisyui from "daisyui";
-
+//asas
 export default {
   content: [
     "./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}",
